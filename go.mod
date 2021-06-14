@@ -27,7 +27,7 @@ require (
 	github.com/kr/pretty v0.2.1
 	github.com/lestrrat-go/jwx v1.2.0
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
-	github.com/microcosm-cc/bluemonday v1.0.9
+	github.com/microcosm-cc/bluemonday v1.0.10
 	github.com/mitchellh/mapstructure v1.3.2 // indirect
 	github.com/oklog/run v1.1.0
 	github.com/onsi/ginkgo v1.16.2
@@ -46,7 +46,7 @@ require (
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
-	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
+	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
 	golang.org/x/tools v0.1.2-0.20210512205948-8287d5da45e4
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
