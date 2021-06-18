@@ -21,7 +21,7 @@ require (
 	github.com/go-chi/httprate v0.5.0
 	github.com/go-chi/jwtauth/v5 v5.0.1
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
-	github.com/golangci/golangci-lint v1.40.1
+	github.com/golangci/golangci-lint v1.41.0
 	github.com/google/uuid v1.2.0
 	github.com/google/wire v0.5.0
 	github.com/kennygrant/sanitize v0.0.0-20170120101633-6a0bfdde8629
@@ -46,7 +46,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
 	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
-	golang.org/x/tools v0.1.2
+	golang.org/x/tools v0.1.3
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
 )
