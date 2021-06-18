@@ -30,7 +30,7 @@ require (
 	github.com/lib/pq v1.10.2 // indirect
 	github.com/matoous/go-nanoid v1.5.0
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
-	github.com/microcosm-cc/bluemonday v1.0.10
+	github.com/microcosm-cc/bluemonday v1.0.14
 	github.com/oklog/run v1.1.0
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.13.0
