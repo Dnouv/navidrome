@@ -39,15 +39,14 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.1.3
-	github.com/spf13/viper v1.8.0
+	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
 	github.com/unrolled/secure v1.0.9
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
 	golang.org/x/net v0.0.0-20210610132358-84b48f89b13b
-	golang.org/x/tools v0.1.3
+	golang.org/x/tools v0.1.5
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
 )
